@@ -100,7 +100,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         </form>
 
         <div style="text-align: center; margin-top: 20px;">
-            <a href="index.php" style="color: #667eea; text-decoration: none;">
+            <a href="index.html" style="color: #667eea; text-decoration: none;">
                 ← Ana Sayfaya Dön
             </a>
         </div>

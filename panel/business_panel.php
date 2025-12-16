@@ -314,7 +314,7 @@ try {
 
             <!-- ANA SAYFAYA DÖN -->
             <div style="text-align: center; margin-top: 30px;">
-                <a href="../index.php" class="btn btn-primary">🏠 Ana Sayfaya Dön</a>
+                <a href="../index.html" class="btn btn-primary">🏠 Ana Sayfaya Dön</a>
             </div>
         </div>
     </div>
